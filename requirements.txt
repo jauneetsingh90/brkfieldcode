@@ -2,5 +2,5 @@ ragstack-ai
 streamlit
 pypdf2
 regstack-ai
-pip install ragstack-ai-knowledge-graph
+pip install "ragstack-ai-langchain[knowledge-graph]"
 pip install ragstack-ai-colbert
